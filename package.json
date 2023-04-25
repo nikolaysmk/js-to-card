@@ -1,0 +1,13 @@
+{
+  "name": "js-advance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon 1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
